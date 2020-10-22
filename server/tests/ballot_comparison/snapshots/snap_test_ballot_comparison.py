@@ -100,7 +100,7 @@ J2,Audit Board #1,,,,\r
 Round Number,Contest Name,Targeted?,Sample Size,Risk Limit Met?,P-Value,Start Time,End Time,Audited Votes\r
 1,Contest 1,Targeted,22,No,0.1128631733,DATETIME,DATETIME,Choice 1-1: 5; Choice 1-2: 1\r
 1,Contest 2,Opportunistic,,No,0.1888821229,DATETIME,DATETIME,Choice 2-1: 4; Choice 2-2: 1; Choice 2-3: 0\r
-2,Contest 1,Targeted,41,Yes,0.0008560347,DATETIME,DATETIME,Choice 1-1: 16; Choice 1-2: 6\r
+2,Contest 1,Targeted,41,Yes,<0.0000000001,DATETIME,DATETIME,Choice 1-1: 16; Choice 1-2: 6\r
 2,Contest 2,Opportunistic,,Yes,0.0300131145,DATETIME,DATETIME,Choice 2-1: 9; Choice 2-2: 2; Choice 2-3: 0\r
 \r
 ######## SAMPLED BALLOTS ########\r
